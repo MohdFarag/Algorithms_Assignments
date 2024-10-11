@@ -1,2 +1,2 @@
 # algorithms
-Assignments for Algorithms Course (Data Analytics)
+Assignments for Algorithms Course (Data Analytics).
